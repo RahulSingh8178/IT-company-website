@@ -47,3 +47,6 @@ A high-performance, responsive website template designed for IT companies.
 - Safari (latest)
 - Edge (latest)
 - Opera (latest)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Host link-  https://rspvt.netlify.app/
