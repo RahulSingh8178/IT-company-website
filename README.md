@@ -47,7 +47,3 @@ A high-performance, responsive website template designed for IT companies.
 - Safari (latest)
 - Edge (latest)
 - Opera (latest)
-
-## License
-
-MIT License - Feel free to use this template for your projects.
