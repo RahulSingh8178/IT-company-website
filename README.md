@@ -1,4 +1,4 @@
-# Modern IT Company Website Template
+# Modern RS technology
 
 A high-performance, responsive website template designed for IT companies.
 
